@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">CryptoTracker</string>
+    <string name="request_timeout_error">Request timeout error! please try later.</string>
+    <string name="to_many_request_error">Too many request on one time, try later.</string>
+    <string name="no_internet_error">No internet on your device, please turn off your connection\'s</string>
+    <string name="serialization_error">Serialization error.</string>
+    <string name="unknown_error">Unknown error.</string>
+    <string name="server_error">Something when wrong, check your server!</string>
 </resources>
